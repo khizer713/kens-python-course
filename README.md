@@ -1,5 +1,6 @@
 # kens-python-course
-work throught downloaded python-course
+work through downloaded python-course
+https://www.youtube.com/watch?v=H2EJuAcrZYU&list=PL0Zuz27SZ-6MQri81d012LwP5jvFZ_scc&index=26&t=19124s
 
 https://www.python.org/
 https://docs.python.org/3/py-modindex.html
@@ -7,6 +8,11 @@ pypi.org
     Finds and installs python packages with Python Package Index
     
 lesson 21 : uses openweathermap.org as API example
+
+lesson 23 : flask.palletsprojects.com
+This is the link to the final project 
+https://python-weather-ia2o.onrender.com/
+
 
 Web Dev Roadmap for Beginners (Free!): https://bit.ly/DaveGrayWebDevRoadmap
 
